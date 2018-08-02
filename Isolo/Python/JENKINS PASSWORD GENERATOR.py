@@ -3,7 +3,7 @@
     Phone:  08163068672
     Python 2, Batch 3 Project'''
 
-'''JENKINS PYTHON GENERATOR'''
+'''JENKINS PASSWORD GENERATOR'''
 
 '''This is a python program that helps generate a strong and secured password by accepting user input and
 randomly generating a unique password from the data the user has inputed.
